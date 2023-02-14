@@ -1,4 +1,4 @@
-# v-study
+# v-study 学习小Demo
 
 ## Project setup
 ```
